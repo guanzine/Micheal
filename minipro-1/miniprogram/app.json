@@ -2,8 +2,6 @@
   "pages": [
     "pages/home/home"
   ],
-  "windows":{
-
-    
-  }
+  "windows": {},
+  "sitemapLocation": "sitemap18.json"
 }

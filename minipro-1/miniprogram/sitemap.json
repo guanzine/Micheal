@@ -1,0 +1,11 @@
+{
+  "rules":[{
+    "action":"allow",
+    "page":"*"
+  },{
+    "action":"disallow",
+    "page":"pages/home",
+    "param":["a","b"],
+    "priority":1
+  }]
+}
